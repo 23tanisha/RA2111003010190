@@ -1,0 +1,10 @@
+PS C:\Users\tanis> python -u "c:\Users\tanis\Downloads\register.py"
+{"companyName":"GoMarket","clientID":"74c1fbc6-ef6f-4510-b6f6-bc4f1035e1f1","clientSecret":"MUACIYfcUBLpuuCr","ownerName":"Tanisha Nandwana","ownerEmail":"tn7844@srmist.edu.in","rollNo":"RA2111003010190"}
+PS C:\Users\tanis>
+
+
+
+
+
+
+{'token_type': 'Bearer', 'access_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzEyMTUzMDg0LCJpYXQiOjE3MTIxNTI3ODQsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6Ijc0YzFmYmM2LWVmNmYtNDUxMC1iNmY2LWJjNGYxMDM1ZTFmMSIsInN1YiI6InRuNzg0NEBzcm1pc3QuZWR1LmluIn0sImNvbXBhbnlOYW1lIjoiR29NYXJrZXQiLCJjbGllbnRJRCI6Ijc0YzFmYmM2LWVmNmYtNDUxMC1iNmY2LWJjNGYxMDM1ZTFmMSIsImNsaWVudFNlY3JldCI6Ik1VQUNJWWZjVUJMcHV1Q3IiLCJvd25lck5hbWUiOiJUYW5pc2hhIE5hbmR3YW5hIiwib3duZXJFbWFpbCI6InRuNzg0NEBzcm1pc3QuZWR1LmluIiwicm9sbE5vIjoiUkEyMTExMDAzMDEwMTkwIn0.4duBpT_b3Z_gNOCGOn79fqf0t1LSiFFQSGyNZ_qa5tQ', 'expires_in': 1712153084}
